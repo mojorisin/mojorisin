@@ -1,6 +1,4 @@
-## Hi there 👋 I'm Kishan
-
-# Hi, I'm Kishanraj 👋
+# Hi there, I'm Kishan 👋 
 
 **Solutions Architect who builds.** Almost 20 years across enterprise engineering, delivery and presales for automotive, motorsport, industrial and energy clients. These days I focus on taking GenAI from demo to production.
 
@@ -16,6 +14,12 @@ I start from the business problem, design the architecture, build the proof, and
 ### Stack
 
 `Python` `TypeScript` `Vertex AI` `Gemini` `Firebase` `Expo / React Native` `LangGraph` `MCP` `SQL` `Azure / AWS / GCP`
+
+**Also worked with in the past:** `C++` `Java` `C#`
+
+### Fun fact
+
+⚡ I run to quiet my head, then spend the whole run designing architectures in it anyway. My best ideas arrive somewhere around kilometre 7, and my brain has never once agreed to stop.
 
 ### Connect
 
