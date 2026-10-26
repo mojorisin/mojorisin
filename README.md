@@ -5,7 +5,7 @@
 ### What I'm building
 
 - 🍎 **[Klasgemak](https://klasgemak.nl)**: a production AI teaching assistant for Dutch primary schools. Expo / React Native, Firebase, Vertex AI and Gemini, with school information system integration, multi-tenant role-based access and per-user/class/school token limits. *Case study repo coming soon.*
-- 🏭 **Industrial AI agents**: agentic workflows over engineering and maintenance data. *In progress.*
+- 🤖 maintenance-copilot: personal learning project on agentic AI (tool use, retrieval and evaluation) using public and synthetic data. In progress.
 
 ### How I work
 
