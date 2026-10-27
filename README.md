@@ -5,7 +5,7 @@
 ### What I'm building
 
 - 🍎 **[Klasgemak](https://klasgemak.nl)**: a production AI teaching assistant for Dutch primary schools. Expo / React Native, Firebase, Vertex AI and Gemini, with school information system integration, multi-tenant role-based access and per-user/class/school token limits. *Case study repo coming soon.*
-- 🤖 maintenance-copilot: personal learning project on agentic AI (tool use, retrieval and evaluation) using public and synthetic data. In progress.
+- 🤖 **[Maintenance Copilot](https://github.com/mojorisin/maintenance-copilot)**: a personal learning project on agentic AI, built on public and synthetic data. An agent that answers reliability engineers' questions across work orders, sensor data and manuals, citing a source for every claim. **18/18 eval cases passing, 100% grounded citations.** [▶ Live demo](https://maintenance-copilot.streamlit.app)
 
 ### How I work
 
